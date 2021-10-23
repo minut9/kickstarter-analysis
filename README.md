@@ -1,2 +1,2 @@
 # kickstarter-analysis
-1st module
+This Project is an analysis for Louise to determine what dates her play should run.
