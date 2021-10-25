@@ -19,7 +19,8 @@ The Outcomes Based on Goals sheet shows how "less is more". Majority of plays th
 This data set shows how the lower the goal amount is to be raised, the more chance it has of bein sucessful. The 1000-4999 category had the highest amount of plays that were successful. This data set also shows how none of these plays were canceled, which is interesting due to the fact that all the plays in this field ran their dates of performance, some were not successful but most were. 
 
 
-Challenges
+#Challenges
+
   The challenges of this kickstarter is to realize what the social norms are for each country. Think about a play that americans enjoy more than English do? Certain   subjects and particular norms very from country to country based on usual social norms for each place. It is hard to compare much to the United States as Ireland   and Great Britian are across the pond. The difference in societies would be a variable in this analysis. 
 
   Another challenge of this kickstarter would be the outliers. Performances that have not done their research before putting their program together, which in term     would set the program up for failure especially around certain times of the year and setting unrealistic goals of money to be raised, when it is simply             impossible to be done in this space. These programs would be considered outliers as they are blindly putting a program together with no past data or research done   that would ensure the program would be forced to fail. 
