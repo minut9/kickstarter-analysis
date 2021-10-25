@@ -19,8 +19,7 @@ The Outcomes Based on Goals sheet shows how "less is more". Majority of plays th
 This data set shows how the lower the goal amount is to be raised, the more chance it has of bein sucessful. The 1000-4999 category had the highest amount of plays that were successful. This data set also shows how none of these plays were canceled, which is interesting due to the fact that all the plays in this field ran their dates of performance, some were not successful but most were. 
 
 
-#Challenges
-
+Challenges
   The challenges of this kickstarter is to realize what the social norms are for each country. Think about a play that americans enjoy more than English do? A movie? TV show? Music? Comedy? References? Certain subjects and particular norms very from country to country based on usual social norms for each place. It is hard to compare much to the United States as Ireland and Great Britian are across the pond. The difference in societies would be a variable in this analysis. 
 
   Another challenge of this kickstarter would be the outliers. Performances that have not done their research before putting their program together, which in term     would set the program up for failure especially around certain times of the year and setting unrealistic goals of money to be raised, when it is simply             impossible to be done in this space. These programs would be considered outliers as they are blindly putting a program together with no past data or research done   that would ensure the program would be forced to fail. 
@@ -29,6 +28,6 @@ This data set shows how the lower the goal amount is to be raised, the more chan
   with successes and failures.
 
 
-As a recommendation, I would suggest starting a play that begins in may and runs till August at the latest. A summer show. And set realistic goals for reasonable pledges. Somewhere in the 1000-4999 range. It would also be prudent to run the play in Great Britian. The data shows that Great Britian plays have a 75% success rate and a 22% fail rate. While the US has a lower success rate of 61% and higher failed rate of 37%. This information was found under the Subcategory tab in the Kickstarter where we can see success and failed rates according to each country. It is important to note the variable of season when doing the analysis. However, there is a higher chance for success in Great Britian with a summer show than any other place or time.
+As a recommendation, I would suggest starting a play that begins in May and runs till August at the latest. A summer show. And set realistic goals for reasonable pledges. Somewhere in the 1000-4999 range. It would also be prudent to run the play in Great Britian. The data shows that Great Britian plays have a 75% success rate and a 22% fail rate. While the US has a lower success rate of 61% and higher failed rate of 37%. This information was found under the Subcategory tab in the Kickstarter where we can see success and failed rates according to each country. It is important to note the variable of season when doing the analysis. However, there is a higher chance for success in Great Britian with a summer show than any other place or time.
 
 
